@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Iury\\GerenciarTarefas\\GerenciarTarefas\\GerenciarTarefas.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Iury\\GerenciarTarefas\\GerenciarTarefas.csproj",
       "projectName": "GerenciarTarefas",
-      "projectPath": "C:\\Users\\Aluno\\Documents\\Iury\\GerenciarTarefas\\GerenciarTarefas\\GerenciarTarefas.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Documents\\Iury\\GerenciarTarefas\\GerenciarTarefas.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Documents\\Iury\\GerenciarTarefas\\GerenciarTarefas\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Documents\\Iury\\GerenciarTarefas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

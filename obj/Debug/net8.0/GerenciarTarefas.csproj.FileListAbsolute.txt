@@ -1,0 +1,15 @@
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\bin\Debug\net8.0\GerenciarTarefas.exe
+C:\Users\Aluno\Documents\Iury\GerenciarTarefas\bin\Debug\net8.0\GerenciarTarefas.deps.json
+C:\Users\Aluno\Documents\Iury\GerenciarTarefas\bin\Debug\net8.0\GerenciarTarefas.runtimeconfig.json
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\bin\Debug\net8.0\GerenciarTarefas.dll
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\bin\Debug\net8.0\GerenciarTarefas.pdb
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\obj\Debug\net8.0\GerenciarTarefas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\obj\Debug\net8.0\GerenciarTarefas.AssemblyInfoInputs.cache
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\obj\Debug\net8.0\GerenciarTarefas.AssemblyInfo.cs
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\obj\Debug\net8.0\GerenciarTarefas.csproj.CoreCompileInputs.cache
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\obj\Debug\net8.0\GerenciarTarefas.sourcelink.json
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\obj\Debug\net8.0\GerenciarTarefas.dll
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\obj\Debug\net8.0\refint\GerenciarTarefas.dll
+c:\Users\Aluno\Documents\Iury\GerenciarTarefas\obj\Debug\net8.0\GerenciarTarefas.pdb
+C:\Users\Aluno\Documents\Iury\GerenciarTarefas\obj\Debug\net8.0\GerenciarTarefas.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Iury\GerenciarTarefas\obj\Debug\net8.0\ref\GerenciarTarefas.dll
